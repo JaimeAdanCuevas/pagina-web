@@ -1,0 +1,16 @@
+@import url('reset.css');
+/* General Demo Style */
+/*p*/
+.container-a{
+	margin-top: 1px;
+	position:relative;
+	color: #333;
+	font-family: 'Terminal Dosis', Arial, sans-serif;
+	font-size: 13px;
+	width:100%;
+}
+
+.content-a{
+	position:relative;
+}
+
